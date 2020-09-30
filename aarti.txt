@@ -1,0 +1,3 @@
+I am Aarati Jalindar Shelake 
+Studied in third year computer engineeering
+this is the python file handling code
